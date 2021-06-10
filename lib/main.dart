@@ -5,7 +5,6 @@ void main() {
   runApp(App());
 }
 
-// @TODO: use https://pub.dev/packages/assets_audio_player to play "Ja sam T.T!" when user clicks on image
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
